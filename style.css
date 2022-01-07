@@ -1,0 +1,41 @@
+html {
+    font-size: 10px;
+    background: linear-gradient(226deg, #3B1D60, #040D3E);
+}
+body {
+    font-size: 1.6rem;
+    height: 100vh;
+
+}
+.wrapper {
+    max-width: 1180px;
+    margin: auto;
+}
+h1 {
+    font-size: 44px;
+    color: #99EFD0;
+}
+p {
+    font-size: 18px;
+    color: #8476AA;
+  
+}
+header {
+    padding-top: 87px;
+    padding-bottom: 104px;
+}
+.navigation {
+    display: flex;
+}
+.navigation li {
+    margin-right: 25px;
+    list-style-type: none;
+    text-transform: uppercase;
+    color: #B5B5B5;
+    font-size: 12px;
+}
+.header__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
